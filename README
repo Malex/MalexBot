@@ -1,0 +1,7 @@
+A IRC Bot written in python.
+
+Why I wrote this? Well, I needed to test some stuff (like a plugin system)
+and had lots of time, so I decided to rebuild the wheel.
+
+My goal is to do most part of this bot only using self-written code and
+stdlib: no framework and so on.

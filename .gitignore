@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.swo
+*.db
+*.txt*
+frozen.egg-info/
+*~
+build/
+dist/
+docs/_build/*
